@@ -1,4 +1,4 @@
-with open("/tmp/codes.txt") as f:
+with open("codes.txt") as f:
     lines = f.read().split("\n")
 
     dial = 50
